@@ -12,5 +12,5 @@ I'm a passionate Computer Science Engineer with a love for AI, Machine Learning,
 
 ### 🛠 Tech Stack
 - Languages: Python, Java, JavaScript, C Language
-- Frameworks & Tools: TensorFlow 🔥, PyTorch 🧠, Streamlit 📊, [Other Tools]
+- Frameworks & Tools: TensorFlow 🔥, PyTorch 🧠, Streamlit , Tableau📊, Keras, Gemini, MongoDB, Express, ReactJS, NodeJS 
 - Databases: SQL 🗃, NoSQL 🔍, MongoDB
